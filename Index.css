@@ -1,0 +1,67 @@
+.name-medium:hover {
+	color: black;
+.name-bold:thick {
+  font-weight: bold;
+}
+#COMINGSOON {
+  background-color: pink;
+}
+}
+.name-huge:hover {
+    color: pink;
+}
+h1   {color: white;}
+p    {color: black;
+		font-style:'Roboto';
+		font-size: 1em;
+		font-family:'GoogleSansBold','Roboto', sans-serif}
+body, html {
+    margin: auto;
+}
+.content {
+    margin-top: 50px;
+    max-width: 500px;
+    text-align: justify;
+}            
+.name {
+    padding-top: 0px;
+	font-family: 'GoogleSansBold', 'Roboto', sans-serif;
+	color: white;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+}
+.font {
+    padding-top: 0px;
+	font-family: 'GoogleSansBold', 'Roboto', sans-serif;
+	color: black;
+}
+.name-huge {
+    font-size: 50pt;
+}
+.name-medium {
+    font-size: 20pt;
+}
+.black {
+	font-family: 'GoogleSansBold', 'Roboto', sans-serif;
+	color: black;
+    font-weight: bold;
+li a {
+  display: block;
+  width: 60px;
+}
+<style>
+a {
+text-decoration: none;
+}
+</style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+td, th {
+vertical-align:top;
+}
